@@ -23,9 +23,9 @@ CVPR-2021 AIC-VI: unrestricted Adversarial Attacks on ImageNet
 
 ​		- inputdata\
 
-​				- images/*.jpg
+​				-—images/*.jpg
 
-​				- dev.csv
+​				-—dev.csv
 
 ​		- results\
 
