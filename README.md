@@ -13,9 +13,9 @@ CVPR-2021 AIC-VI: unrestricted Adversarial Attacks on ImageNet
 
 涉及技术：MI, TI, DI, Gaussian smoothing，FGSM等
 
-比赛排名：初赛 **TOP3** , 复赛**TOP10**, 决赛**TOP4**
+比赛排名：初赛 **TOP4** , 复赛**TOP10**, 决赛**TOP4**
 
-具体涨分细节请参考：https://tianchi.aliyun.com/competition/entrance/531853/forum
+具体涨分细节请参考：https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.f63141379PH9tV&postId=208941
 
 该项目需要创建以下文件夹：
 
