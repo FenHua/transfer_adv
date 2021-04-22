@@ -31,4 +31,4 @@ CVPR-2021 AIC-VI: unrestricted Adversarial Attacks on ImageNet
 
 ## 攻击效果图： ##
 
-![results_show](C:\Users\FenHua\Desktop\transfer_adv\results_show.jpg)
+![results_show](results_show.jpg)
