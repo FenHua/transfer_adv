@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6380129-6d25-43e9-9c1a-67856ac21866" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1rPmU8KNDQj9gwXwwYBgbd8B06Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6380129-6d25-43e9-9c1a-67856ac21866" name="Default Changelist" comment="" />
+      <created>1618886111749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618886111749</updated>
+      <workItem from="1618886123864" duration="6770000" />
+      <workItem from="1618893864489" duration="374000" />
+      <workItem from="1618900315259" duration="59000" />
+      <workItem from="1618900492038" duration="16000" />
+      <workItem from="1618900553710" duration="155000" />
+      <workItem from="1618901971204" duration="2113000" />
+      <workItem from="1619093205854" duration="4000" />
+      <workItem from="1619094993920" duration="1948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
