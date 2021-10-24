@@ -38,8 +38,11 @@ CVPR-2021 AIC-VI: unrestricted Adversarial Attacks on ImageNet
 
 please cite：
 
-@inproceedings{Wang2021ImprovingAT,
+```
+@article{wang2021improving,
   title={Improving Adversarial Transferability with Gradient Refining},
-  author={Guoqiu Wang and Huanqian Yan and Ying Guo and Xingxing Wei},
+  author={Wang, Guoqiu and Yan, Huanqian and Guo, Ying and Wei, Xingxing},
+  journal={arXiv preprint arXiv:2105.04834},
   year={2021}
 }
+```
